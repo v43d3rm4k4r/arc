@@ -1,5 +1,5 @@
 # arc
-A simple console archiver
+A simple console archiver.
 
 #### USE:
 For pack:  
